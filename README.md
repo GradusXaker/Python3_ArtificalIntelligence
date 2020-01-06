@@ -1,7 +1,8 @@
 # Python3_ArtificalIntelligence
 ArtificalIntelligence
 
-открываем Terminal в нужной папке с проектом и затем вводим последовательно команды:
+открываем Terminal в нужной папке с проектом 
+и затем вводим последовательно команды:
 
 $ git init
 $ git add --all
